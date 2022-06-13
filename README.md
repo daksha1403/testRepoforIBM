@@ -1,3 +1,3 @@
 # testRepoforIBM
 
-it is a ,ardown file in this repo.
+it is a markdown file in this repo.
